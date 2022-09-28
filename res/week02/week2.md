@@ -1,4 +1,6 @@
-# Week 2
+# Week 2 - Strategy Muster
+
+![Definition Strategy-Muster](img.png "Title")
 
 ## How can we separate the code into the changeable and the unchangeable
 
