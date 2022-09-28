@@ -6,6 +6,14 @@ public abstract class Duck {
         quackBehavior.quack();
     }
 
+    protected void setFlyBehavior(FlyBehavior fb) {
+        flyBehavior = fb;
+    }
+
+    protected void setQuackBehavior(QuackBehavior qb) {
+        quackBehavior = qb;
+    }
+
     protected void performFly() {
         flyBehavior.fly();
     }

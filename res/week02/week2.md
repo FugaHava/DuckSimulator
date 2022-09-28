@@ -12,7 +12,7 @@ Welche der folgenden Punkte sind Nachteile beim Einsatz von Vererbung, um das Ve
 der Enten zu implementieren?
 
 - [x] A
-- [ ] B
+- [ ] B (is true too!)
 - [ ] C
 - [x] D
 - [ ] E
